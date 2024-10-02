@@ -1,10 +1,11 @@
 Using Mnist data set in which contains 28x28 images of hand drawn numbers from 0 to 9, we make a model to train on the data and make a prediction.
 
 I use tensorflow to create/train the model. 
-We normalize the data for training and testing data
-we use keras as part of the tensorflow library to have an input layer, dense hidden layer of 128 neurons per layer and I use relu rectify linear as the activation
+We normalize the data for training and testing data.
+we use keras as part of the tensorflow library to have an input layer. 
+Dense hidden layer of 128 neurons and uses relu (rectify linear ) as the activation
 
-For the output layer uses 10 classifcations through softmax as the output layer
+Output layer uses 10 classifcations through softmax.
 
 When compiling the model using the adam optimizer produces a higher accuracy when training the data. 
 
