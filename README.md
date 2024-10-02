@@ -20,3 +20,9 @@ adam is commonly used due to being more efficient and having a higher accuracy v
 
 You can edit line 27 in the optimizer assignment and set it to whatever prefer optimizer. You will notice that the change in accuracy changes depending on which one do you use.
 
+
+
+How to Compile code. 
+Make sure to have the latest python version and pip/pip3 installed
+have matplotlib install --> link: https://pypi.org/project/matplotlib/
+have tensorflow install --> link: https://www.tensorflow.org/install
