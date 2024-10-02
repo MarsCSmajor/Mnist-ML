@@ -24,5 +24,6 @@ You can edit line 27 in the optimizer assignment and set it to whatever prefer o
 
 How to Compile code. 
 Make sure to have the latest python version and pip/pip3 installed
-have matplotlib install --> link: https://pypi.org/project/matplotlib/
-have tensorflow install --> link: https://www.tensorflow.org/install
+
+have matplotlib install -->link: https://pypi.org/project/matplotlib/
+have tensorflow install -->link: https://www.tensorflow.org/install
